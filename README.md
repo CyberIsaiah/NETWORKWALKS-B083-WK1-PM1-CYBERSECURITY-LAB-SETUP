@@ -78,7 +78,7 @@ Set a fixed IP address inside Kali so it stays consistent every time the VM star
 ## ✅ Example Results
 IP Address: 10.0.0.2/24
 Gateway: 10.0.0.1
-DNS: 8.8.8.
+DNS: 8.8.8.8
 ## 🐛 Problems I Ran Into (and How I Solved Them)
 
 ### Problem 1: NAT Network prefix didn't match my static IP setup
