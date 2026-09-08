@@ -1,7 +1,8 @@
 # Building a Cybersecurity Practice Lab with Kali Linux
 A hands-on virtual environment set up for learning ethical hacking and penetration testing fundamentals
 
-`Skill: Cybersecurity` `VirtualBox 7.2` `Kali Linux 2026.2` `Skill: Linux` `NAT Network: 10.0.0.0/24` `Ethical Hacking` `Virtualization` `GitHub` `NetworkWalks` `Salifu Isaiah`
+![Skill](https://img.shields.io/badge/Skill-Cybersecurity-red) ![Ver](https://img.shields.io/badge/Ver-VirtualBox_7.2-blue) ![Kali](https://img.shields.io/badge/Kali_Linux-2026.2-orange) ![Skill](https://img.shields.io/badge/Skill-Linux-red) ![Network](https://img.shields.io/badge/Network-10.0.0.0%2F24-teal) ![Skill](https://img.shields.io/badge/Skill-Penetration_Testing-red) ![Skill](https://img.shields.io/badge/Skill-Virtualization-red) ![GitHub](https://img.shields.io/badge/GitHub-CyberIsaiah-black) ![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-orange) ![Author](https://img.shields.io/badge/Author-Salifu_Isaiah-red)
+
 
 ## 📌 About This Project
 This project documents how I built a personal cybersecurity lab using VirtualBox and Kali Linux. The goal was to create a safe, isolated environment where I could practice security tools, learn network scanning, and get comfortable with penetration-testing basics without touching any real production system.
